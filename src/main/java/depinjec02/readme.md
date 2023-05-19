@@ -9,7 +9,7 @@ Below for beans which are to be created
 @Repository
 @Component
 @Service
-@Configuration to scan where 
+@Configuration to scan where the classes are to present as beans
 
 
 
